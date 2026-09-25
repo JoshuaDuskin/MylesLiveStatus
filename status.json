@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "generated_at": "2026-09-25T07:54:42-05:00",
+  "generated_at": "2026-09-25T07:54:51-05:00",
   "myles": {
     "version": "9.7.0",
     "online": true
@@ -10,30 +10,16 @@
     "cycle": 37,
     "consecutive_failures": 0,
     "last_job_id": "M83-20260925-073550-47c428",
-    "next_spawn_epoch": 0,
+    "next_spawn_epoch": 1790340901,
     "mode": "idle-time continuous improvement"
   },
-  "current_task": {
-    "id": "M83-20260925-073550-47c428",
-    "label": "Improve Myles's tools and capabilities",
-    "source": "continuous",
-    "state": "running",
-    "phase": "model",
-    "phase_display": "Planning / reasoning",
-    "started_at": "2026-09-25T07:52:17-05:00",
-    "updated_at": "2026-09-25T07:54:40-05:00",
-    "heartbeat_at": "2026-09-25T07:54:40-05:00",
-    "last_verified_progress_at": "2026-09-25T07:54:12-05:00",
-    "worker_alive": true,
-    "heartbeat_age_seconds": 2,
-    "progress_age_seconds": 30
-  },
+  "current_task": null,
   "queue_count": 0,
   "queued_tasks": [],
   "last_completed": {
-    "id": "M83-20260925-072521-b1cb00",
+    "id": "M83-20260925-073550-47c428",
     "label": "Improve Myles's tools and capabilities",
-    "completed_at": "2026-09-25T07:35:38-05:00"
+    "completed_at": "2026-09-25T07:54:49-05:00"
   },
   "last_failure": {
     "id": "M83-20260924-211457-ab0c7c",
