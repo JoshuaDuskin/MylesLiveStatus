@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "generated_at": "2026-09-25T08:16:55-05:00",
+  "generated_at": "2026-09-25T08:17:01-05:00",
   "myles": {
     "version": "9.7.0",
     "online": true
@@ -18,15 +18,15 @@
     "label": "Improve Myles's tools and capabilities",
     "source": "continuous",
     "state": "running",
-    "phase": "tool:git_command",
-    "phase_display": "Using tools",
+    "phase": "model",
+    "phase_display": "Planning / reasoning",
     "started_at": "2026-09-25T07:58:05-05:00",
-    "updated_at": "2026-09-25T08:16:54-05:00",
-    "heartbeat_at": "2026-09-25T08:16:54-05:00",
+    "updated_at": "2026-09-25T08:16:57-05:00",
+    "heartbeat_at": "2026-09-25T08:16:57-05:00",
     "last_verified_progress_at": "2026-09-25T08:16:36-05:00",
     "worker_alive": true,
-    "heartbeat_age_seconds": 1,
-    "progress_age_seconds": 19
+    "heartbeat_age_seconds": 4,
+    "progress_age_seconds": 25
   },
   "queue_count": 0,
   "queued_tasks": [],
