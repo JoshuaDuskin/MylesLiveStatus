@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "generated_at": "2026-09-25T07:22:23-05:00",
+  "generated_at": "2026-09-25T07:22:29-05:00",
   "myles": {
     "version": "9.7.0",
     "online": true
@@ -18,15 +18,15 @@
     "label": "Improve Myles's tools and capabilities",
     "source": "continuous",
     "state": "running",
-    "phase": "action_planner",
-    "phase_display": "action_planner",
+    "phase": "model",
+    "phase_display": "Planning / reasoning",
     "started_at": "2026-09-25T07:14:26-05:00",
-    "updated_at": "2026-09-25T07:22:22-05:00",
-    "heartbeat_at": "2026-09-25T07:22:22-05:00",
-    "last_verified_progress_at": "2026-09-25T07:22:07-05:00",
+    "updated_at": "2026-09-25T07:22:28-05:00",
+    "heartbeat_at": "2026-09-25T07:22:28-05:00",
+    "last_verified_progress_at": "2026-09-25T07:22:28-05:00",
     "worker_alive": true,
     "heartbeat_age_seconds": 1,
-    "progress_age_seconds": 16
+    "progress_age_seconds": 1
   },
   "queue_count": 0,
   "queued_tasks": [],
