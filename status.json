@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "generated_at": "2026-09-25T09:46:36-05:00",
+  "generated_at": "2026-09-25T09:46:42-05:00",
   "myles": {
     "version": "9.7.0",
     "online": true
@@ -10,30 +10,16 @@
     "cycle": 53,
     "consecutive_failures": 0,
     "last_job_id": "M83-20260925-093848-592767",
-    "next_spawn_epoch": 1790347383,
+    "next_spawn_epoch": 1790347612,
     "mode": "idle-time continuous improvement"
   },
-  "current_task": {
-    "id": "M83-20260925-094248-3f2a85",
-    "label": "Revert the Myles dashboard changes made in the previous cycle.",
-    "source": "owner",
-    "state": "running",
-    "phase": "tool",
-    "phase_display": "tool",
-    "started_at": "2026-09-25T09:42:48-05:00",
-    "updated_at": "2026-09-25T09:46:34-05:00",
-    "heartbeat_at": "2026-09-25T09:46:34-05:00",
-    "last_verified_progress_at": "2026-09-25T09:46:25-05:00",
-    "worker_alive": true,
-    "heartbeat_age_seconds": 2,
-    "progress_age_seconds": 11
-  },
+  "current_task": null,
   "queue_count": 0,
   "queued_tasks": [],
   "last_completed": {
-    "id": "M83-20260925-092004-c437ca",
-    "label": "Improve Myles's tools and capabilities",
-    "completed_at": "2026-09-25T09:38:36-05:00"
+    "id": "M83-20260925-094248-3f2a85",
+    "label": "Revert the Myles dashboard changes made in the previous cycle.",
+    "completed_at": "2026-09-25T09:46:40-05:00"
   },
   "last_failure": {
     "id": "M83-20260924-211457-ab0c7c",
