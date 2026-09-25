@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "generated_at": "2026-09-25T10:16:47-05:00",
+  "generated_at": "2026-09-25T10:16:53-05:00",
   "myles": {
     "version": "9.7.0",
     "online": true
@@ -21,11 +21,11 @@
     "phase": "action_planner",
     "phase_display": "action_planner",
     "started_at": "2026-09-25T10:11:17-05:00",
-    "updated_at": "2026-09-25T10:16:45-05:00",
-    "heartbeat_at": "2026-09-25T10:16:45-05:00",
-    "last_verified_progress_at": "2026-09-25T10:16:42-05:00",
+    "updated_at": "2026-09-25T10:16:52-05:00",
+    "heartbeat_at": "2026-09-25T10:16:52-05:00",
+    "last_verified_progress_at": "2026-09-25T10:16:48-05:00",
     "worker_alive": true,
-    "heartbeat_age_seconds": 2,
+    "heartbeat_age_seconds": 1,
     "progress_age_seconds": 5
   },
   "queue_count": 0,
