@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "generated_at": "2026-09-25T09:44:47-05:00",
+  "generated_at": "2026-09-25T09:45:02-05:00",
   "myles": {
     "version": "9.7.0",
     "online": true
@@ -18,15 +18,15 @@
     "label": "Revert the Myles dashboard changes made in the previous cycle.",
     "source": "owner",
     "state": "running",
-    "phase": "tool:write_generated_file",
-    "phase_display": "Using tools",
+    "phase": "model",
+    "phase_display": "Planning / reasoning",
     "started_at": "2026-09-25T09:42:48-05:00",
-    "updated_at": "2026-09-25T09:44:38-05:00",
-    "heartbeat_at": "2026-09-25T09:44:38-05:00",
+    "updated_at": "2026-09-25T09:45:00-05:00",
+    "heartbeat_at": "2026-09-25T09:45:00-05:00",
     "last_verified_progress_at": "2026-09-25T09:43:31-05:00",
     "worker_alive": true,
-    "heartbeat_age_seconds": 9,
-    "progress_age_seconds": 76
+    "heartbeat_age_seconds": 2,
+    "progress_age_seconds": 91
   },
   "queue_count": 0,
   "queued_tasks": [],
