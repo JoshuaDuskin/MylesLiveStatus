@@ -1,0 +1,44 @@
+{
+  "schema_version": 3,
+  "generated_at": "2026-09-25T06:53:33-05:00",
+  "myles": {
+    "version": "9.7.0",
+    "online": true
+  },
+  "continuous_program": {
+    "enabled": true,
+    "cycle": 33,
+    "consecutive_failures": 0,
+    "last_job_id": "M83-20260925-065013-e0f2ea",
+    "next_spawn_epoch": 0,
+    "mode": "idle-time continuous improvement"
+  },
+  "current_task": {
+    "id": "M83-20260925-065013-e0f2ea",
+    "label": "Improve Myles's tools and capabilities",
+    "source": "continuous",
+    "state": "running",
+    "phase": "tool:[redacted]",
+    "phase_display": "Using tools",
+    "started_at": "2026-09-25T06:50:13-05:00",
+    "updated_at": "2026-09-25T06:53:33-05:00",
+    "heartbeat_at": "2026-09-25T06:53:33-05:00",
+    "last_verified_progress_at": "2026-09-25T06:53:29-05:00",
+    "worker_alive": true,
+    "heartbeat_age_seconds": 0,
+    "progress_age_seconds": 4
+  },
+  "queue_count": 0,
+  "queued_tasks": [],
+  "last_completed": {
+    "id": "M83-20260925-061138-2b4df9",
+    "label": "Fix the chat window inside the Myles dashboard so that users can interact with Myles directly from the interfa",
+    "completed_at": "2026-09-25T06:14:06-05:00"
+  },
+  "last_failure": {
+    "id": "M83-20260924-211457-ab0c7c",
+    "label": "Share the Myles dashboard link",
+    "error": "RuntimeError: Execution bridge returned malformed JSON that could not be repaired.",
+    "failed_at": "2026-09-24T21:19:51-05:00"
+  }
+}
